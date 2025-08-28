@@ -18,7 +18,7 @@ Features
 Data cleaning and preprocessing  
 Correlation heatmaps and visual insights  
 Multiple machine learning models for binary classification  
-Model evaluation using accuracy, precision, recall, and F1-score  
+  
 
 Dataset
 
@@ -47,11 +47,6 @@ jupyter notebook
 
 Run the notebooks to train and evaluate the models.
 
-Sample Results
-
-Logistic Regression: ~X% accuracy  
-Random Forest: ~Y% accuracy  
-Best model achieved Z% accuracy  
 
 Future Improvements
 
