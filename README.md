@@ -33,14 +33,6 @@ The dataset contains medical attributes such as:
 
 (Each record is labeled as 0 for Non-Diabetic or 1 for Diabetic)
 
-How to Run
-
-Clone this repository:
-
-git clone https://github.com/your-username/diabetes-prediction.git  
-cd diabetes-prediction  
- 
-
 Open Jupyter Notebook:
 
 jupyter notebook  
